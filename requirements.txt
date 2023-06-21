@@ -1,6 +1,13 @@
+
+datetime
+dill
 pandas
 numpy
 seaborn
-datetime
-dill
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
 -e .
