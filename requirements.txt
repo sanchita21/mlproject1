@@ -1,6 +1,7 @@
 pandas
 numpy
 seaborn
+Flask
 datetime
 dill
 -e .
